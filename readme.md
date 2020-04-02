@@ -9,7 +9,7 @@ let str = "http://www.runoob.com:80/html/html-tutorial.html";
 let tel = "13790082228";
 let num = "-011";
 let user = "poi111122";
-let name = "郑振丰·尼古拉斯对哒对哒11111123232323";
+let name = "郑振丰·尼古拉斯对哒对哒";
 let email = "8079-qqqdsgff@gmail-goo.com.cn";
 
 let result2 = regEamil.test(email)
