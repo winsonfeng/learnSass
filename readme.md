@@ -1,4 +1,4 @@
-```
+``` javascript
 let regTel = /^1[3456789]\d{9}$/g
 let regUser = /^\w{7,11}$/g
 let regNumber = /^[+-]?([1-9]|([1-9]\d+))?(\.\d+)?0$/;
